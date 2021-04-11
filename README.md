@@ -2,3 +2,5 @@
 
 CPSC349 - Assignment 4
 Tony Nguyen
+
+firebaseconfig.js file not uploaded
